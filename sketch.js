@@ -17,7 +17,27 @@ let inputTexts = [
   
   "I fear others will look down on my work for being vapid. That those who know, those who I respect will not respect my work. This is an insecurity arising from my personal fear of a lack of knowledge. I fear I have made the wrong choice by choosing to paint, that when I cant afford the dentist I will look at myself foolishly. I fear failing in my own eyes, of no longer having the ideas that qualify my personal right to be an artist.",
   
-  "I fear the inherent loneliness of being an artist. The lack of collaboration gets me."
+  "I fear the inherent loneliness of being an artist. The lack of collaboration gets me.",
+  
+  "I fear my work is ugly, garish and horid. Although sometimes this is a positive.",
+  
+  "I fear seeing myself in my work, or of expressing myself too openly. Everything is hidden or so opaque as to be incorporated into context and disapeared.",
+  
+  "I fear expressing joy in my work, as joy confuses me. It is named so simply but never is. I also worry this emotion is to surface, and without a treatment I could not provide woul result in superfluous art.",
+  
+  "I fear color in my work. I love color, but serious thinking about color is something I feel I must leave for others. I do think about color, but it feels like too much responsibility to take it as my own. I am also color blind (slightly)",
+  
+  "I am scared of working or developing too slowly, or too fast. I want to achieve some level of respect (self and otherwise), but I want career longevity as well",
+  
+  "I am scared of death.",
+  
+  "I am scared of the abject in my work, specifically as subject matter, though I find myself increasingly drawn to it",
+  
+  "I fear embracing humor as a crutch",
+  
+  "I fear embracing technology of a crutch. I also fear technology, and want to prioritize physical work",
+  
+  "I fear deleting my computer files"
   
 ];
 
