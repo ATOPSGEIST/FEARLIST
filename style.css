@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('Txt Regular.ttf') format('truetype');
+  /* You can add additional src formats here for better browser compatibility */
+}
